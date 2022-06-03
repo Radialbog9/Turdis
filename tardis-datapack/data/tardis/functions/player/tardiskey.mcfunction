@@ -1,0 +1,2 @@
+execute if score @s TardisTimelords matches 1 run give @s gold_nugget{display:{Name:'{"text":"Tardis Key","color":"gold","italic":false}'}}
+execute unless score @s TardisTimelords matches 1 run tellraw @s {"text":"You need to be a doctor to get a key for this whip!", "color":"red"}

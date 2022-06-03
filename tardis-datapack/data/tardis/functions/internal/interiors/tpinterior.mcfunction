@@ -1,0 +1,13 @@
+execute if score Interior Tardis matches 1 run function tardis:internal/interiors/teleport/1
+execute if score Interior Tardis matches 2 run function tardis:internal/interiors/teleport/2
+execute if score Interior Tardis matches 3 run function tardis:internal/interiors/teleport/3
+execute if score Interior Tardis matches 4 run function tardis:internal/interiors/teleport/4
+execute if score Interior Tardis matches 5 run function tardis:internal/interiors/teleport/5
+execute if score Interior Tardis matches 6 run function tardis:internal/interiors/teleport/6
+execute if score Interior Tardis matches 7 run function tardis:internal/interiors/teleport/7
+execute if score Interior Tardis matches 8 run function tardis:internal/interiors/teleport/8
+execute if score Interior Tardis matches 9 run function tardis:internal/interiors/teleport/9
+execute if score Interior Tardis matches 10 run function tardis:internal/interiors/teleport/10
+execute if score Interior Tardis matches 11 run function tardis:internal/interiors/teleport/11
+execute if score Interior Tardis matches 12 run function tardis:internal/interiors/teleport/12
+execute if score Interior Tardis matches 13 run function tardis:internal/interiors/teleport/13

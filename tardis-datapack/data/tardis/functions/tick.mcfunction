@@ -1,0 +1,1 @@
+execute if score DoTick Tardis matches 1 run function tardis:main

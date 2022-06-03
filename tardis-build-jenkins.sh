@@ -1,0 +1,1 @@
+zip -r tardis-datapack-$JENKINS_BUILD.zip tardis-datapack/*

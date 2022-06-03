@@ -1,0 +1,1 @@
+execute at @e[tag=TardisOuter] run tp @e[tag=TardisOuterSpawn] ^ ^ ^2 facing ^ ^ ^3
