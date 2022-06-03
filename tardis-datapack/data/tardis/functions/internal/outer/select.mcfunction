@@ -31,5 +31,5 @@ execute at @e[tag=TardisConsole] if block ~2 ~ ~ lever[powered=true] if block ~2
 execute at @e[tag=TardisConsole] if block ~2 ~ ~ lever[powered=true] if block ~2 ~ ~1 repeater[delay=4] if block ~2 ~ ~-1 repeater[delay=2] run scoreboard players set Dest Tardis 30
 execute at @e[tag=TardisConsole] if block ~2 ~ ~ lever[powered=true] if block ~2 ~ ~1 repeater[delay=4] if block ~2 ~ ~-1 repeater[delay=3] run scoreboard players set Dest Tardis 31
 execute at @e[tag=TardisConsole] if block ~2 ~ ~ lever[powered=true] if block ~2 ~ ~1 repeater[delay=4] if block ~2 ~ ~-1 repeater[delay=4] run scoreboard players set Dest Tardis 32
-execute unless score Dest Tardis = PrevDest Tardis at @e[tag=TardisOuter] run fill ~-1 ~ ~-1 ~1 ~4 ~1 air
+# execute unless score Dest Tardis = PrevDest Tardis at @e[tag=TardisOuter] run fill ~-1 ~ ~-1 ~1 ~4 ~1 air
 execute unless score Dest Tardis = PrevDest Tardis run function tardis:internal/interiors/updatesign

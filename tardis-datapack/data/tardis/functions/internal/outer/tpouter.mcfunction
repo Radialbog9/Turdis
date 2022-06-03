@@ -8,7 +8,6 @@ execute if score Dest Tardis matches 7 run tp @e[tag=TardisOuter] -1421.5 96 -90
 execute if score Dest Tardis matches 8 run tp @e[tag=TardisOuter] -1355.5 69 -1025.5 0 0
 execute if score Dest Tardis matches 9 run tp @e[tag=TardisOuter] -1511.5 89 -931.5 -90 0
 execute if score Dest Tardis matches 10 run tp @e[tag=TardisOuter] -1557.5 118 -837.5 90 0
-
 execute if score Dest Tardis matches 11 run tp @e[tag=TardisOuter] -1455.5 37 -938.5 -180 0
 execute if score Dest Tardis matches 12 run tp @e[tag=TardisOuter] -1455.5 37 -938.5 -180 0
 execute if score Dest Tardis matches 13 run tp @e[tag=TardisOuter] -1455.5 37 -938.5 -180 0
